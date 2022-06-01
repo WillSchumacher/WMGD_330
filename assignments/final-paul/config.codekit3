@@ -86,6 +86,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/caret.png" : {
+      "ft" : 32768,
+      "iS" : 208,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/caret.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/collage-1.png" : {
       "ft" : 32768,
       "iS" : 795700,
@@ -274,12 +287,84 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/page.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/page.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/article-grid.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/article-grid.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footer-column-1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footer-column-1.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footer-column-2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footer-column-2.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footer-column-3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footer-column-3.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/footer.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/head.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/primary-cta.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/primary-cta.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -300,6 +385,14 @@
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/page.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/page.html",
+      "oF" : 2
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
@@ -341,6 +434,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_article-grid.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_article-grid.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -391,6 +499,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/dev\/scss\/components\/_header.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/dev\/scss\/components\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -431,6 +554,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_primary-cta.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_primary-cta.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
