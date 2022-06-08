@@ -1,0 +1,21 @@
+.header {
+    background: $light-pink;
+    padding: 8.9px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_link {
+    color: $black;
+    margin-left: 20 px;
+    font-size: 12 px;
+    text-decoration: none;
+
+    &:hover {
+        opacity: .5;
+    }
+
+    @include md {
+        font-size: 16px;
+    }
+}
